@@ -1,0 +1,12 @@
+C:\Projects\Hotkeys\HotkeyLib\bin\Debug\HotkeyLib.dll
+C:\Projects\Hotkeys\HotkeyLib\bin\Debug\HotkeyLib.pdb
+C:\Projects\Hotkeys\HotkeyLib\obj\Debug\HotkeyLib.csprojAssemblyReference.cache
+C:\Projects\Hotkeys\HotkeyLib\obj\Debug\HotkeyLib.csproj.CoreCompileInputs.cache
+C:\Projects\Hotkeys\HotkeyLib\obj\Debug\HotkeyLib.dll
+C:\Projects\Hotkeys\HotkeyLib\obj\Debug\HotkeyLib.pdb
+C:\Projects\AutoMate\HotkeyLib\bin\Debug\HotkeyLib.dll
+C:\Projects\AutoMate\HotkeyLib\bin\Debug\HotkeyLib.pdb
+C:\Projects\AutoMate\HotkeyLib\obj\Debug\HotkeyLib.csprojAssemblyReference.cache
+C:\Projects\AutoMate\HotkeyLib\obj\Debug\HotkeyLib.csproj.CoreCompileInputs.cache
+C:\Projects\AutoMate\HotkeyLib\obj\Debug\HotkeyLib.dll
+C:\Projects\AutoMate\HotkeyLib\obj\Debug\HotkeyLib.pdb

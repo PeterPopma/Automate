@@ -1,0 +1,13 @@
+C:\Projects\AutoMate\AutoMate\bin\Debug\AutoMate.exe.config
+C:\Projects\AutoMate\AutoMate\bin\Debug\AutoMate.exe
+C:\Projects\AutoMate\AutoMate\bin\Debug\AutoMate.pdb
+C:\Projects\AutoMate\AutoMate\obj\Debug\AutoMate.csprojAssemblyReference.cache
+C:\Projects\AutoMate\AutoMate\obj\Debug\AutoMate.Properties.Resources.resources
+C:\Projects\AutoMate\AutoMate\obj\Debug\AutoMate.csproj.GenerateResource.cache
+C:\Projects\AutoMate\AutoMate\obj\Debug\AutoMate.csproj.CoreCompileInputs.cache
+C:\Projects\AutoMate\AutoMate\obj\Debug\AutoMate.exe
+C:\Projects\AutoMate\AutoMate\obj\Debug\AutoMate.pdb
+C:\projects\AutoMate\AutoMate\obj\Debug\AutoMate.FormMain.resources
+C:\projects\AutoMate\AutoMate\bin\Debug\HotkeyLib.dll
+C:\projects\AutoMate\AutoMate\bin\Debug\HotkeyLib.pdb
+C:\projects\AutoMate\AutoMate\obj\Debug\AutoMate.csproj.CopyComplete

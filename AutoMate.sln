@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoMate", "AutoMate\AutoMate.csproj", "{B401D353-3D72-45D5-B67C-D81E5BFAEEF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotkeyLib", "HotkeyLib\HotkeyLib.csproj", "{09823DA8-C587-4363-95F1-CD99F4D0A678}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B401D353-3D72-45D5-B67C-D81E5BFAEEF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B401D353-3D72-45D5-B67C-D81E5BFAEEF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B401D353-3D72-45D5-B67C-D81E5BFAEEF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B401D353-3D72-45D5-B67C-D81E5BFAEEF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09823DA8-C587-4363-95F1-CD99F4D0A678}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09823DA8-C587-4363-95F1-CD99F4D0A678}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09823DA8-C587-4363-95F1-CD99F4D0A678}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09823DA8-C587-4363-95F1-CD99F4D0A678}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {167E2285-EC58-4414-BE91-06E846B4CD56}
+	EndGlobalSection
+EndGlobal
